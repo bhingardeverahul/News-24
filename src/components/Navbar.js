@@ -30,12 +30,7 @@ const Navbar = ({toggleMode,mode}) => {
         
        
       </ul>
-      <div className="d-flex justify-content-end">
-      <div className="form-check form-switch "> 
-  <input className="form-check-input" type="checkbox"  role="switch" id="flexSwitchCheckChecked"/>
-  <label className="form-check-label" htmlFor="flexSwitchCheckChecked">Enable Dark Mode</label>
-</div>
-      </div>
+ 
     </div>
   </div>
 </nav>
